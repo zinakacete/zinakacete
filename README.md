@@ -81,11 +81,6 @@ Just don’t ask me to write perfect code on the first try – I’m still searc
 - **Description**: Built a tool to analyze Git contributions, visualizing team members' performance through metrics like commits and lines modified.  
 - **Skills**: Git, Java, Team Collaboration.
 
----
-
-## 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateur&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VotreNomUtilisateur&layout=compact&theme=radical)
 
 ---
 
