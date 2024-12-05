@@ -27,7 +27,7 @@ Just don’t ask me to write perfect code on the first try – I’m still searc
 - Docker, Git.
 
 ### 🗄️ Databases:
-- PostgreSQL, SQL, MongoDB, Oracle.
+- PostgreSQL, SQL,Oracle.
 
 ---
 
