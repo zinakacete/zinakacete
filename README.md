@@ -68,20 +68,13 @@ Just don’t ask me to write perfect code on the first try – I’m still searc
 ### 📌 Java Development - Custom Version of Pet Rescue Saga  
 - **Description**: Personalized the game Pet Rescue Saga using OOP principles and algorithms to manage levels and events.  
 - **Skills**: Java, OOP, Game Development, Algorithm Design.  
-
-### 📌 Network Domain Setup  
-- **Description**: Configured a network domain with DNS and DHCP servers, managing a local network using virtual machines.  
-- **Skills**: Networking, DNS/DHCP, Virtualization, System Administration.  
-
-### 📌 Shortest Path Algorithms Implementation  
-- **Description**: Implemented A*, Dijkstra, and breadth/depth-first search algorithms for shortest path computation in graphs.  
-- **Skills**: Graph Algorithms, A*, Dijkstra, BFS/DFS.  
+  
 
 ### 📌 Visuolog - Git Contributions Analysis Tool  
 - **Description**: Built a tool to analyze Git contributions, visualizing team members' performance through metrics like commits and lines modified.  
 - **Skills**: Git, Java, Team Collaboration.
 
-
+and more below!
 ---
 
 ### ✨ Thank you for visiting my profile! 😊
