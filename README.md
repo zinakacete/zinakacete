@@ -38,11 +38,6 @@ Just don’t ask me to write perfect code on the first try – I’m still searc
 - **Description**: Created abstract games (Dominoes, Trax, Carcassonne) using advanced OOP concepts. Focused on modular and reusable components.  
 - **Skills**: C++, OOP, Modular Design, Interactive Game Development, GUI.  
 
-
-### 📌 Fractal Generator in Java  
-- **Description**: Created a fractal generator for Julia and Mandelbrot sets using concurrent programming to optimize rendering.  
-- **Skills**: Java, Concurrent/Parallel Programming, Mathematics, Fractal Generation.  
-
 ### 📌 GHOSTLAB Network Game Development  
 - **Description**: Developed a networked game in C/Java using TCP and UDP protocols. Players capture ghosts in a maze.  
 - **Skills**: Network Programming, TCP/UDP, C/Java Development.  
