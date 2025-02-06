@@ -33,25 +33,11 @@ Just don’t ask me to write perfect code on the first try – I’m still searc
 
 ## 🔓 Open Source Projects
 
-### 📌 Automated Task Scheduler in C  
-- **Description**: Developed a daemon-client system to automate periodic task execution, similar to the cron utility.  
-- **Skills**: C programming.  
-
-### 📌 Autonomous Line Follower with Path Memorization  
-- **Description**: Designed an autonomous robot capable of following a line while memorizing its trajectory. Integrated PID controller and neural networks for optimization.  
-- **Skills**: Robotics, Python, PID, Neural Networks, Artificial Intelligence.  
 
 ### 📌 C++ Abstract Games Development  
 - **Description**: Created abstract games (Dominoes, Trax, Carcassonne) using advanced OOP concepts. Focused on modular and reusable components.  
 - **Skills**: C++, OOP, Modular Design, Interactive Game Development, GUI.  
 
-### 📌 Code Analyzer for Simplified Language - Polish  
-- **Description**: Built a code analyzer for a mini-language with program evaluation, code simplification, and static analysis for uninitialized variables.  
-- **Skills**: OCaml.  
-
-### 📌 Foreign Language Learning App  
-- **Description**: Developed a mobile app with features like translation lookup, memorization exercises, and customizable learning preferences.  
-- **Skills**: Mobile Development (Kotlin), Database Management, Google API Integration, UI/UX.  
 
 ### 📌 Fractal Generator in Java  
 - **Description**: Created a fractal generator for Julia and Mandelbrot sets using concurrent programming to optimize rendering.  
@@ -61,18 +47,10 @@ Just don’t ask me to write perfect code on the first try – I’m still searc
 - **Description**: Developed a networked game in C/Java using TCP and UDP protocols. Players capture ghosts in a maze.  
 - **Skills**: Network Programming, TCP/UDP, C/Java Development.  
 
-### 📌 Implementation of LIFO and Work Stealing Schedulers  
-- **Description**: Built multithreaded schedulers with performance optimization across multiple cores.  
-- **Skills**: C programming, Task Scheduling, Multithreading, Performance Optimization.  
-
 ### 📌 Java Development - Custom Version of Pet Rescue Saga  
 - **Description**: Personalized the game Pet Rescue Saga using OOP principles and algorithms to manage levels and events.  
 - **Skills**: Java, OOP, Game Development, Algorithm Design.  
   
-
-### 📌 Visuolog - Git Contributions Analysis Tool  
-- **Description**: Built a tool to analyze Git contributions, visualizing team members' performance through metrics like commits and lines modified.  
-- **Skills**: Git, Java, Team Collaboration.
 
 and more below!
 ---
